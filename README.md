@@ -1,3 +1,4 @@
+python 版本管理spark任务？
 # Spark Manager API for IBM Watson OpenScale
 A Python based Flask application that facilitates IBM Watson OpenScale to read/write files from/to remote HDFS, run and get details about a job running in remote Spark cluster.
 
